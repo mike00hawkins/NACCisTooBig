@@ -9,7 +9,7 @@ The user still has to do some data preparation. Open the data file and reverse i
 
 Steps:
 1. Download the NACC spreadsheet and use it to create your local "NACCturnedUpsideDown.csv".
-2. Use the csv to create "NACCRippedToNew<N>.csv"
-3. Check the resulting file before using it for training.
-4.  
+2. Run the program to create "NACCRippedToNew<N>.csv"
+3. Check the resulting file before using it for training.4.  
+
 This program returns only the most recent annual record for each participant of the study.   
